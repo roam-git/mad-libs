@@ -4,6 +4,9 @@ def lorax():
 def beemovie():
     print("bee movie")
     return
+def 1337():
+    print("you're pretty 1337")
+    return
 
 
 print("Mad Libs but not becuase copyright or something. idk.")
@@ -14,3 +17,5 @@ if selection == '1':
     lorax()
 elif selection == '2':
     beemovie()
+elif selection == '1337':
+    1337()
