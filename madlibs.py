@@ -1,6 +1,9 @@
 def lorax():
     print("lorax")
     return
+def beemovie();
+    print("bee movie")
+    return
 
 
 print("Mad Libs but not becuase copyright or something. idk.")
