@@ -9,7 +9,7 @@ def 1337():
     return
 
 
-print("Mad Libs but not becuase copyright or something. idk.")
+print("Mad Libs but not because copyright or something. idk.")
 print("1. The Lorax - In progress\n2. The Bee Movie\n3. Shrek")
 selection = input(" > ")
 
