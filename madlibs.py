@@ -10,7 +10,7 @@ def 1337():
 
 
 print("Mad Libs but not because copyright or something. idk.")
-print("1. The Lorax - In progress\n2. The Bee Movie\n3. Shrek")
+print("1. The Lorax - In progress\n2. The Bee Movie\n3. Shrek\n4. Open Season (yeah idk either)\n5. Mary Had A Little Lamb")
 selection = input(" > ")
 
 if selection == '1':
