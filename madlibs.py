@@ -1,7 +1,7 @@
 def lorax():
     print("lorax")
     return
-def beemovie();
+def beemovie():
     print("bee movie")
     return
 
