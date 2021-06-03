@@ -62,7 +62,7 @@ def beemovie():
     squirrel =
     amusementpark =
     vacation =
-
+    print()
     print("Colors")
     yellow =
     black =
