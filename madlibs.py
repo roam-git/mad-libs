@@ -14,21 +14,11 @@ def clear():
 
     # for mac and linux(here, os.name is 'posix')
     else:
-	_ = system('clear')
+	    _ = system('clear')
 
 def lorax():
     print("lorax")
     return
-
-print("Mad Libs but not because copyright or something. idk.")
-print("1. The Lorax - In progress\n2. The Bee Movie\n3. Shrek\n4. Open Season (yeah idk either)\n5. Mary Had A Little Lamb")
-selection = input(" > ")
-
-if selection == '1':
-    lorax()
-elif selection == '2':
-    beemovie()
-
 
 def beemovie():
     print()
@@ -76,7 +66,15 @@ def beemovie():
     awkward = input(" > ")
     different = input(" > ")
     clear() 
-    
-    #final madlib code dsplay code below code code dnba;eua;ejaeuihafkjheaiuhfkjbfdskjbsadfkjhasefkjhafsdjkhasdfkjhsdafkljhdsfhjkldsfakhjlfdsalhkji
-    print()
-    print("cock")
+
+print("Mad Libs but not because copyright or something. idk.")
+print("1. The Lorax - In progress\n2. The Bee Movie\n3. Shrek\n4. Open Season (yeah idk either)\n5. Mary Had A Little Lamb")
+selection = input(" > ")
+
+if selection == '1':
+    lorax()
+elif selection == '2':
+    beemovie()
+clear()
+
+#final madlib code dsplay code below code code dnba;eua;ejaeuihafkjheaiuhfkjbfdskjbsadfkjhasefkjhafsdjkhasdfkjhsdafkljhdsfhjkldsfakhjlfdsalhkji
