@@ -1,4 +1,3 @@
-#the below shit is just abunch of shit i've got to figure out how to properly implement to make the clear command work
 # import only system from os
 from os import system, name
 
@@ -10,7 +9,7 @@ def clear():
 
     # for windows
     if name == 'nt':
-        _ = system('cls')
+        _ = system('cls') #What the fuck is this and why does it work
 
     # for mac and linux(here, os.name is 'posix')
     else:
@@ -66,6 +65,13 @@ def beemovie():
     awkward = input(" > ")
     different = input(" > ")
     clear() 
+
+#Set window title?
+import sys
+import os
+os.system("mad libs")
+sys.stdout.write("\x1b]2;mad libs\x07")
+
 
 print("Mad Libs but not because copyright or something. idk.")
 print("1. The Lorax - In progress\n2. The Bee Movie\n3. Shrek\n4. Open Season (yeah idk either)\n5. Mary Had A Little Lamb")
