@@ -47,50 +47,50 @@ clear()
 def beemovie():
     print()
     print("Nouns")
-    aviation =
-    wing =
-    bee =
-    body =
-    human =
-    graduate =
-    stair =
-    lint =
-    fuzz =
-    hothead =
-    hive =
-    mustache =
-    squirrel =
-    amusementpark =
-    vacation =
+    aviation = input(" > ")
+    wing = input(" > ")
+    bee = input(" > ")
+    body = input(" > ")
+    human = input(" > ")
+    graduate = input(" > ")
+    stair = input(" > ")
+    lint = input(" > ")
+    fuzz = input(" > ")
+    hothead = input(" > ")
+    hive = input(" > ")
+    mustache = input(" > ")
+    squirrel = input(" > ")
+    amusementpark = input(" > ")
+    vacation = input(" > ")
     print()
     print("Colors")
-    yellow =
-    black =
+    yellow = input(" > ")
+    black = input(" > ")
     print()
     print("Numbers")
-    three=
+    three = input(" > ")
     print()
     print("Names")
-    barry =
-    adam =
-    Frankie =
-    DeanBuzzwell=
+    barry = input(" > ")
+    adam = input(" > ")
+    Frankie = input(" > ")
+    DeanBuzzwell = input(" > ")
     print()
     print("Verbs")
-    fly =
-    hitchhik =
-    sting =
+    fly = input(" > ")
+    hitchhik = input(" > ")
+    sting = input(" > ")
     print()
     print("Adjectives")
-    ready =
-    sharp =
-    excited =
-    proud =
-    high =
-    awkward =
-    different =
-    clear()
+    ready = input(" > ")
+    sharp = input(" > ")
+    excited = input(" > ")
+    proud = input(" > ")
+    high = input(" > ")
+    awkward = input(" > ")
+    different = input(" > ")
+    clear() 
     
     #final madlib code dsplay code below code code dnba;eua;ejaeuihafkjheaiuhfkjbfdskjbsadfkjhasefkjhafsdjkhasdfkjhsdafkljhdsfhjkldsfakhjlfdsalhkji
     print()
-    print("
+    print("cock")
