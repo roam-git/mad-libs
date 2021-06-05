@@ -67,7 +67,8 @@ def beemovie():
     different = input(" > ")
     clear()
 #Bee Movie Script lesss goooooooooooooooo
-    print("According to all known laws /n of " + aviation + "/n there is no way a" + bee + "/n should be able to" + fly + "./n Its" + wing + "s are too small to get /n its fat little body off the ground. /n The" + bee + ", of course," + fly + "s anyway
+    print("According to all known laws /n of "
+	+ aviation + "/n there is no way a" + bee + "/n should be able to" + fly + "./n Its" + wing + "s are too small to get /n its fat little body off the ground. /n The" + bee + ", of course," + fly + "s anyway
 
 echo.The %bee%, of course, %fly%s anyway
 echo.because %bee%s don't care
