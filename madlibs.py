@@ -66,12 +66,8 @@ def beemovie():
     different = input(" > ")
     clear()
 #Bee Movie Script
-    print(" echo.According to all known laws
-echo.of %aviation%,
-echo.there is no way a %bee%
-echo.should be able to %fly%.
-echo.Its %wing%s are too small to get
-echo.its fat little %body% off the ground.
+    print("According to all known laws /n of " + aviation + "/n there is no way a" + bee + "/n should be able to" + fly + "./n Its" + wing + "s are too small to get /n its fat little body off the ground. /n The"
+
 echo.The %bee%, of course, %fly%s anyway
 echo.because %bee%s don't care
 echo.what %human%s think is impossible.
