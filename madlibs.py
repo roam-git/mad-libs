@@ -1,3 +1,12 @@
+
+def lorax():
+    print("lorax")
+    return
+# hey yeah what the fuck does this mean
+def 1337():
+    print("you're pretty 1337")
+    return
+
 # import only system from os
 from os import system, name
 
@@ -18,6 +27,7 @@ def clear():
 def lorax():
     print("lorax")
     return
+
 
 def beemovie():
 	# this system of assigning variables has been left here as a sysbol of our past, a historical relic, representative of how we must remember our past so as to not repeat it.
@@ -65,6 +75,13 @@ def beemovie():
     high = input(" > ")
     awkward = input(" > ")
     different = input(" > ")
+
+    clear() 
+    
+    #final madlib code dsplay code below code code dnba;eua;ejaeuihafkjheaiuhfkjbfdskjbsadfkjhasefkjhafsdjkhasdfkjhsdafkljhdsfhjkldsfakhjlfdsalhkji
+    print()
+    print("cock")
+
     clear()
 #Bee Movie Script lesss goooooooooooooooo
     print("According to all known laws /n of "
@@ -160,6 +177,38 @@ if selection == '1':
     lorax()
 elif selection == '2':
     beemovie()
+
+elif selection == '1337':
+    1337()
+
+    #the below shit is just abunch of shit i've got to figure out how to properly implement to make the clear command work
+# import only system from os
+from os import system, name
+
+# import sleep to show output for some time period
+from time import sleep
+
+# define our clear function
+def clear():
+
+	# for windows
+	if name == 'nt':
+		_ = system('cls')
+
+	# for mac and linux(here, os.name is 'posix')
+	else:
+		_ = system('clear')
+
+
+# sleep for 2 seconds after printing output
+sleep(2)
+
+# now call function we defined above
+clear()
+
+
+
 clear()
 
 #final madlib code dsplay code below code code dnba;eua;ejaeuihafkjheaiuhfkjbfdskjbsadfkjhasefkjhafsdjkhasdfkjhsdafkljhdsfhjkldsfakhjlfdsalhkji
+
